@@ -1,4 +1,6 @@
-## Who am I?
+[![ORCID](https://img.shields.io/badge/-ORCID-gray?logo=orcid&logoColor=green)](https://orcid.org/0000-0002-6652-9295)
+
+## About me
 
 **Name**: Ismael Felipe Ferreira dos Santos  
 **Birth**: Maceió, Alagoas, Brazil. 09th December 1999  
