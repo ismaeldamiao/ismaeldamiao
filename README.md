@@ -31,7 +31,7 @@ Hi, my name is Ismael and I'm a brazilian physicist. The focus of my research is
 
 <p align="center" >
   <a href="https://github.com/ismaeldamiao/libismael" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ismaeldamiao&locale=en&theme=onedark&repo=libismael" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ismaeldamiao&locale=en&theme=onedark&repo=libism" />
   </a>
 </p>
 <p align="center" >
